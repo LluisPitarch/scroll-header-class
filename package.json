@@ -1,0 +1,28 @@
+{
+  "name": "scroll-header-class",
+  "version": "1.0.0",
+  "description": "scroll header toggle class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LluisPitarch/scroll-header-class.git"
+  },
+  "keywords": [
+    "scroll",
+    "header",
+    "cdn",
+    "class",
+    "switch",
+    "scrol",
+    "detect"
+  ],
+  "author": "Lluis Pitarch Ripolles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LluisPitarch/scroll-header-class/issues"
+  },
+  "homepage": "https://github.com/LluisPitarch/scroll-header-class#readme"
+}
