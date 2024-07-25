@@ -8,7 +8,7 @@ To install `ScrollHeader`, simply run:
 
 CDN
 To use ScrollHeader via a CDN, you can add the following script tag to your HTML:
-`<script src="https://cdn.example.com/scroll-header.min.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/LluisPitarch/scroll-header-class/index.js"></script>`
 
 ## Demo
 
@@ -37,7 +37,7 @@ To see a live demo of ScrollHeader in action, check out the demo.html file in th
         background: red !important;
       }
     </style>
-    <script src="./index.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/LluisPitarch/scroll-header-class/index.js"></script>
     <script>
       scrollHeaderClass({
         headerElement: document.getElementById('nav'),
